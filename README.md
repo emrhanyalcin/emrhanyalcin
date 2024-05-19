@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 
-<h3 align="center">Information Security Student</h3> :computer:
+<h3 align="center">Information Security Student :computer: </h3> 
 
 
 
